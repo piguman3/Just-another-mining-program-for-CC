@@ -24,3 +24,5 @@ When the program is started up, the computer will tell the instructions to the t
 
 ## NOTES
 Some features I would like to add would be the ability to mine up or down, and colour codes in advanced monitors.
+
+Also, to make it not meltdown if the value inputed isn't a multiple of 2.
