@@ -12,3 +12,8 @@ The point of the project is to be a template for other monitor-turtle-modem appl
 
 ## Examples:
 ![Example with one turtle.](https://user-images.githubusercontent.com/113848275/190916394-907104e0-a977-4464-b449-40a8c18fbe32.png)
+
+## How to install
+Download the files to your PC, and drag and drop `turtlemine.lua` into your ***turtles*** and `monitormine.lua` into the CC:Tweaked ***computer*** that is connected to a monitor.
+
+Both systems will require a wireless or advanced wireless modems.
