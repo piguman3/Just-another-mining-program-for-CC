@@ -5,7 +5,7 @@ Just another mining program that uses monitors and turtles in CC:Tweaked
 There are 2 files, one for the turtles you'll be using and one for the computer that will send commands and control monitors.
 
 ### Ok, so?
-The point is to use turtles one on top of eachother to maximize the ***minign*** area.
+The point is to use turtles one on top of eachother to maximize the <ins>minign</ins> process.
 
 ### Check your spelling man.
 The point of the project is to be a template for other monitor-turtle-modem applications in CC:Tweaked.
