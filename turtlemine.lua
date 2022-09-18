@@ -17,11 +17,11 @@ while 1 do
         end
         if message=="DIG" then
             rednet.send(computerID, "Digging " .. "F: " .. turtle.getFuelLevel())
-            --turtle.dig()
+            turtle.dig()
         end
         if message=="FOR" then
             rednet.send(computerID, "Moving forward " .. "F: " .. turtle.getFuelLevel())
-            --turtle.forward()
+            turtle.forward()
         end
         if message=="LEF" then
             rednet.send(computerID, "Turning left " .. "F: " .. turtle.getFuelLevel())
@@ -29,23 +29,23 @@ while 1 do
         end
         if message=="DUN" then
             rednet.send(computerID, "Digging down " .. "F: " .. turtle.getFuelLevel())
-            --turtle.digDown()
+            turtle.digDown()
         end
         if message=="DWN" then
             rednet.send(computerID, "Moving down " .. "F: " .. turtle.getFuelLevel())
-            --turtle.down()
+            turtle.down()
         end
         if message=="RIG" then
             rednet.send(computerID, "Turning right " .. "F: " .. turtle.getFuelLevel())
-            --turtle.turnRight()
+            turtle.turnRight()
         end
         if message=="UUP" then
             rednet.send(computerID, "Moving up " .. "F: " .. turtle.getFuelLevel())
-            --turtle.up()
+            turtle.up()
         end
         if message=="DUP" then
             rednet.send(computerID, "Moving up " .. "F: " .. turtle.getFuelLevel())
-            --turtle.digUp()
+            turtle.digUp()
         end
     end
 end
