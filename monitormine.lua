@@ -85,7 +85,7 @@ function sendComAll(command)
     monitor.write("--------------------------------")
     for x=1,#turtles,1 do --Loop for all turtles
         monitor.setCursorPos(1,x+3)
-        monitor.write("1 - State: " .. sendCom(turtles[x], command)) --Prints results from sendCom
+        monitor.write("1 \2 - State: " .. sendCom(turtles[x], command)) --Prints results from sendCom
     end
 end
 
@@ -130,8 +130,8 @@ for y=1,h,1 do
     end
     if not (y>=tonumber(h)) then
         for x=1,turtleAmount,1 do
-            sendComAll("DUP")
-            sendComAll("UUP")
+            sendComAll("DUN")
+            sendComAll("DWN")
         end
         sendComAll("LEF")
         sendComAll("LEF")
