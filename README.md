@@ -16,4 +16,11 @@ The point of the project is to be a template for other monitor-turtle-modem appl
 ## How to install
 Download the files to your PC, and drag and drop `turtlemine.lua` into your ***turtles*** and `monitormine.lua` into the CC:Tweaked ***computer*** that is connected to a monitor.
 
+Alternatively, you could also perform the `pastebin get VCcEPSP6` to download the program to turtles, and the `pastebin get Gjf1ASgh` for computers, without the need to download files from github.
+
 Both systems will require a wireless or advanced wireless modems.
+
+When the program is started up, the computer will tell the instructions to the turtles.
+
+## NOTES
+Some features I would like to add would be the ability to mine up or down, and colour codes in advanced monitors.
