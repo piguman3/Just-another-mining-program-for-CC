@@ -1,4 +1,4 @@
-local monitor = peripheral.wrap("left")
+local monitor = peripheral.find("monitor")
 rednet = peripheral.find("modem", rednet.open)
 
 local turtleAmount
