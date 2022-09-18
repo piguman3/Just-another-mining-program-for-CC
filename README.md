@@ -12,6 +12,7 @@ The point of the project is to be a template for other monitor-turtle-modem appl
 
 ## Examples:
 ![Example with one turtle.](https://user-images.githubusercontent.com/113848275/190916394-907104e0-a977-4464-b449-40a8c18fbe32.png)
+![Example with one turtle gif](https://user-images.githubusercontent.com/113848275/190925044-75755ce4-c2d2-43b2-9c25-b07c449e72d6.gif)
 
 ## How to install
 Download the files to your PC, and drag and drop `turtlemine.lua` into your ***turtles*** and `monitormine.lua` into the CC:Tweaked ***computer*** that is connected to a monitor.
